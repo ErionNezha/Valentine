@@ -1,4 +1,39 @@
-# 💘 Will You Be My Valentine?
+# 💘 A do të jesh Valentina ime? 🇦🇱
+
+> Një mënyrë interaktive dhe lozonjare për t'i bërë atij personi të veçantë pyetjen e madhe — me një surprizë për këdo që përpiqet të klikojë "Jo".
+
+![Pamje nga demo](screenshot.png)
+
+**🔴 Demo live:** https://erionnezha.github.io/Valentine/
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 💡 Si funksionon
+
+1. Hap faqen — të pyetet **"A do të jesh Valentina ime?"**
+2. Kliko **Po** → zgjidh një datë 📅, zgjidh ushqimin 🍔, zgjidh ëmbëlsirën 🍰, zgjidh një aktivitet 🎡
+3. Provo të klikosh **Jo**… fat të mbarë me këtë 😏
+4. Përfundo në faqen e falënderimit me muzikë dhe festë 🎉
+
+Faqet: `index.html` → `date.html` → `food.html` → `dessert.html` → `activities.html` → `lastpage.html` → `thankyou.html`
+
+## ▶️ Ekzekuto lokalisht
+
+Thjesht hap `index.html` në çdo shfletues — pa build, pa varësi.
+
+## 🙏 Kredite
+
+Bazuar në projektin e hapur nga [byquangthanh](https://github.com/byquangthanh/valentine.github.io). Përshtatur dhe publikuar nga Erion Nezha.
+
+## 📄 Licenca
+
+Copyright © 2026 Erion Nezha. Të gjitha të drejtat e rezervuara. Shih [LICENSE](LICENSE).
+
+---
+
+# 💘 Will You Be My Valentine? 🇬🇧
 
 > An interactive, playful way to ask that special someone the big question — with a surprise for anyone who tries to click "No".
 
