@@ -1,5 +1,7 @@
 # 💘 A do të jesh Valentina ime? 🇦🇱
 
+Created by **Erion Nezha**.
+
 > Një mënyrë interaktive dhe lozonjare për t'i bërë atij personi të veçantë pyetjen e madhe — me një surprizë për këdo që përpiqet të klikojë "Jo".
 
 ![Pamje nga demo](screenshot.png)
@@ -25,7 +27,7 @@ Thjesht hap `index.html` në çdo shfletues — pa build, pa varësi.
 
 ## 🙏 Kredite
 
-Bazuar në projektin e hapur nga [byquangthanh](https://github.com/byquangthanh/valentine.github.io). Përshtatur dhe publikuar nga Erion Nezha.
+Krijuar nga **Erion Nezha**.
 
 ## 📄 Licenca
 
@@ -58,7 +60,7 @@ Just open `index.html` in any browser — no build step, no dependencies.
 
 ## 🙏 Credits
 
-Based on the open project by [byquangthanh](https://github.com/byquangthanh/valentine.github.io). Adapted and published by Erion Nezha.
+Created by **Erion Nezha**.
 
 ## 📄 License
 
